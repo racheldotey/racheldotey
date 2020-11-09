@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 #### About Me:
 
-- 👀 I'm interested in the Internet of things. All of the things!
+- 👀 I'm fascinated by the Internet of Things — the idea that everyday physical objects can be networked and made smarter is something I keep coming back to.
 - 🔭 Currently Im working on [UVMComputes](https://uvmcomputes.org/) the worlds first in browser supercomputer!
-- 🌱 I'm currently learning advanced securtiy techniques.
-- 💞️ I'm looking to collaborate on block chain architecture and algorithms.
-- ⚡ A random fun fact about me is that **I started as a webmaster on Geocities.**
+- 🌱 Lately I've been going deep on security — pen testing, threat modeling, the fun stuff.
+- 💞️ I'd love to collaborate on blockchain architecture and algorithm design. If you're building something interesting in that space, reach out!
+- ⚡ Fun fact: **I got my start as a webmaster on Geocities.** The animated GIFs were *chef's kiss*.
 
 #### GitHub Stats:
 
