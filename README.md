@@ -150,19 +150,27 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-#### Find Me:
+<h3 align="center">Find Me:</h3>
 
-<p align="left">
-<a href="https://dev.to/racheldotey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="racheldotey" height="30" width="40" /></a>
-<a href="https://twitter.com/raedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raedeveloper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/racheldotey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="racheldotey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1024313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1024313" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dev.to/racheldotey" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="racheldotey" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/raedeveloper" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raedeveloper" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/racheldotey" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="racheldotey" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/1024313" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1024313" height="30" width="40" />
+  </a>
 </p>
 
-📫 You can also reach me at <strong><a href="mailto:hello@racheldotey.com">hello@racheldotey.com</a></strong>
+<p align="center">📫 You can also reach me at <strong><a href="mailto:hello@racheldotey.com">hello@racheldotey.com</a></strong></p>
 
 ***
 
-If you like this readme file, please give me star! ❤️
+<p align="center">If you like this readme file, please give me a star! ❤️</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=racheldotey&label=Profile%20views&color=0e75b6&style=flat" alt="racheldotey" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=racheldotey&label=Profile%20views&color=0e75b6&style=flat" alt="racheldotey" /> </p>
