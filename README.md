@@ -3,6 +3,8 @@ racheldotey/racheldotey is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<img src="assets/cover.jpg" alt="Rachel Dotey" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Rachel</h1>
 <h3 align="center">I make software and websites. It's pretty cool actually.</h3>
 
