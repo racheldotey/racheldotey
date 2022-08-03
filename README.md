@@ -5,16 +5,16 @@ You can click the Preview link to take a look at your changes.
 
 <img src="assets/cover.jpg" alt="Rachel Dotey" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Rachel</h1>
-<h3 align="center">I make software and websites. It's pretty cool actually.</h3>
+<h1 align="center">Hi, I'm Rachel Dotey 👋</h1>
+<h3 align="center">Full-stack software developer · 15+ years building for the web</h3>
 
 #### About Me:
 
-- 👀 I'm fascinated by the Internet of Things — the idea that everyday physical objects can be networked and made smarter is something I keep coming back to.
-- 🔭 Currently Im working on [UVMComputes](https://uvmcomputes.org/) the worlds first in browser supercomputer!
-- 🌱 Lately I've been going deep on security — pen testing, threat modeling, the fun stuff.
-- 💞️ I'd love to collaborate on blockchain architecture and algorithm design. If you're building something interesting in that space, reach out!
-- ⚡ Fun fact: **I got my start as a webmaster on Geocities.** The animated GIFs were *chef's kiss*.
+- 🔭 Currently Im working on a visual comparison of phrase popularity in 150 billion tweets. It's called [StoryWrangler](https://storywrangling.org/), you should check it out.
+- 🏫 I used to teach web development at Hartwick College — getting people into tech is something I genuinely care about.
+- 🌱 Lately I've been spending most of my time in TypeScript, React Native, and cloud infrastructure on AWS.
+- 💞️ Always open to collaborating on interesting problems — especially anything at the intersection of data, architecture, and good UX.
+- ⚡ Fun fact: **I got my start as a webmaster on Geocities.** Still have opinions about background tiles.
 
 #### GitHub Stats:
 
