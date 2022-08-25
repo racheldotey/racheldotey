@@ -3,7 +3,7 @@ racheldotey/racheldotey is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="assets/cover.jpg" alt="Rachel Dotey" width="100%" />
+<img src="assets/cover.jpg" alt="Hi! I'm Rachel. I build software. How can I make your business better?" width="100%" />
 
 <h1 align="center">Hi, I'm Rachel Dotey 👋</h1>
 <h3 align="center">Full-stack software developer · 15+ years building for the web</h3>
@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 #### About Me:
 
 - 🔭 Currently Im working on a visual comparison of phrase popularity in 150 billion tweets. It's called [StoryWrangler](https://storywrangling.org/), you should check it out.
-- 🏫 I used to teach web development at Hartwick College — getting people into tech is something I genuinely care about.
-- 🌱 Lately I've been spending most of my time in TypeScript, React Native, and cloud infrastructure on AWS.
-- 💞️ Always open to collaborating on interesting problems — especially anything at the intersection of data, architecture, and good UX.
-- ⚡ Fun fact: **I got my start as a webmaster on Geocities.** Still have opinions about background tiles.
+- 🏫 I spent several years teaching web development at Hartwick College. Helping people break into tech is something I still care a lot about.
+- 🌱 Right now I'm focused on TypeScript, React Native, and cloud infrastructure on AWS - always learning, always building.
+- 💞️ I enjoy working on complex problems, especially where solid architecture, clean data, and thoughtful UX all have to come together.
+- ⚡ Fun fact: **I got my start as a webmaster on Geocities.** I have strong feelings about what makes a good website, and it started there.
 
 #### GitHub Stats:
 
