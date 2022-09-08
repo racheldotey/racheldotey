@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="assets/cover.jpg" alt="Hi! I'm Rachel. I build software. How can I make your business better?" width="100%" />
 
-<h1 align="center">Hi, I'm Rachel Dotey 👋</h1>
-<h3 align="center">Full-stack software developer · 15+ years building for the web</h3>
+<h1 align="center">Rachel Dotey</h1>
+<h3 align="center">Full-Stack Software Developer - Albany, NY - 15+ Years Experience</h3>
 
 #### About Me:
 
