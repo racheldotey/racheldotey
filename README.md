@@ -152,12 +152,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Find Me:</h3>
 
 <p align="center">
-  <a href="https://dev.to/racheldotey" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="racheldotey" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/raedeveloper" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raedeveloper" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/racheldotey" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="racheldotey" height="30" width="40" />
   </a>
