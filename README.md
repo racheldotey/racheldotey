@@ -16,17 +16,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I enjoy working on complex problems, especially where solid architecture, clean data, and thoughtful UX all have to come together.
 - ⚡ Fun fact: **I got my start as a webmaster on Geocities.** I have strong feelings about what makes a good website, and it started there.
 
-#### GitHub Stats:
-
-<div style="display:block; overflow:auto;">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=racheldotey&show_icons=true&locale=en" alt="racheldotey" />
-  </p>
-  <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racheldotey&show_icons=true&locale=en&layout=compact" alt="racheldotey" />
-  </p>
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
