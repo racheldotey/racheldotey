@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 
 #### About Me:
 
-- 🔭 Currently Im working on a visual comparison of phrase popularity in 150 billion tweets. It's called [StoryWrangler](https://storywrangling.org/), you should check it out.
-- 🏫 I spent several years teaching web development at Hartwick College. Helping people break into tech is something I still care a lot about.
-- 🌱 Right now I'm focused on TypeScript, React Native, and cloud infrastructure on AWS - always learning, always building.
-- 💞️ I enjoy working on complex problems, especially where solid architecture, clean data, and thoughtful UX all have to come together.
-- ⚡ Fun fact: **I got my start as a webmaster on Geocities.** I have strong feelings about what makes a good website, and it started there.
+- 💼 Full-stack developer with 15+ years of professional experience building web applications, APIs, and scalable systems from concept to production. I work across the entire stack and I'm comfortable owning a project end to end.
+- 🔭 Currently working on [StoryWrangler](https://storywrangling.org/), a data visualization platform that tracks phrase trends across 150 billion tweets.
+- 🤝 I've led technical teams, managed project timelines, and translated business goals into working software. I know how to communicate with both engineers and stakeholders and keep things moving.
+- 🧑‍🏫 Former web development instructor at Hartwick College. I invest in the people around me and believe strong teams build better software.
+- ⚡ Fun fact: **I got my start as a webmaster on Geocities.** 20+ years later, I still care deeply about building things that work well and hold up over time.
 
 <h3 align="center">Languages and Tools</h3>
 
