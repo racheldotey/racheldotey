@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 #### About Me:
 
 - 💼 Full-stack developer with 15+ years of professional experience building web applications, APIs, and scalable systems from concept to production. I work across the entire stack and I'm comfortable owning a project end to end.
-- 🔭 Currently working on [StoryWrangler](https://storywrangling.org/), a data visualization platform that tracks phrase trends across 150 billion tweets.
+- 🔭 Currently working as a software engineer at **VISTRADA**, contributing to a range of client projects across web development and software engineering.
 - 🤝 I've led technical teams, managed project timelines, and translated business goals into working software. I know how to communicate with both engineers and stakeholders and keep things moving.
 - 🧑‍🏫 Former web development instructor at Hartwick College. I invest in the people around me and believe strong teams build better software.
 - ⚡ Fun fact: **I got my start as a webmaster on Geocities.** 20+ years later, I still care deeply about building things that work well and hold up over time.
