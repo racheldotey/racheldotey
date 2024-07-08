@@ -160,21 +160,39 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<h3 align="center">Find Me:</h3>
+***
+
+<h3 align="center">Let's Work Together</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/racheldotey" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="racheldotey" height="30" width="40" />
+  I'm always open to new projects, interesting problems, and good conversations.<br/>
+  If you have something in mind, my inbox is open.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/racheldotey" target="blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/1024313" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1024313" height="30" width="40" />
+  &nbsp;
+  <a href="https://stackoverflow.com/users/1024313" target="blank" title="Stack Overflow">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:hello@racheldotey.com" title="Email">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
-<p align="center">📫 You can also reach me at <strong><a href="mailto:hello@racheldotey.com">hello@racheldotey.com</a></strong></p>
+<p align="center">
+  <a href="mailto:hello@racheldotey.com">hello@racheldotey.com</a>
+  &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/racheldotey">linkedin.com/in/racheldotey</a>
+  &nbsp;|&nbsp;
+  Albany, NY
+</p>
 
 ***
 
-<p align="center">If you like this readme file, please give me a star! ❤️</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=racheldotey&label=Profile%20views&color=0e75b6&style=flat" alt="racheldotey" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=racheldotey&label=Profile%20views&color=0e75b6&style=flat" alt="racheldotey" />
+</p>
